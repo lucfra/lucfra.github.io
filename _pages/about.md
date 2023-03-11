@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Brief description.
+Coming soon hopefully :) 

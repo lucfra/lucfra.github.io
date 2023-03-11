@@ -57,7 +57,7 @@ plugins:
 author:
 #  name   : "First Lastname"
   avatar : "/assets/images/portrait-hani.jpg"
-  bio    : "Machine learning researcher, Warhammer player, food lover - both eating and cooking!"
+  bio    : "Machine learning researcher, traveller, Warhammer player, food lover - both eating and cooking!"
   location: "Berlin"
   links:
     - label: "Google Scholar"
@@ -75,8 +75,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lucfra"
-    - label: "Grill"
-      icon: "fas fa-fw fa-grill-hot"
 
 defaults:
   # _posts
