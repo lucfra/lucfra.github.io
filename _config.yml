@@ -57,7 +57,7 @@ plugins:
 author:
 #  name   : "First Lastname"
   avatar : "/assets/images/portrait-hani.jpg"
-  bio    : "Machine learning researcher, Warhammer player, food lover (both cooking and eating!)."
+  bio    : "Machine learning researcher, Warhammer player, food lover - both cooking and eating!"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
