@@ -61,7 +61,7 @@ author:
   location: "Berlin"
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.at/citations?user=NCls8VMAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -75,9 +75,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lucfra"
-    - label: "Test"
+    - label: "Grill"
       icon: "fas fa-fw fa-grill-hot"
-      url: "https://github.com/lucfra"
 
 defaults:
   # _posts
