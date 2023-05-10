@@ -12,7 +12,4 @@ Some more content... .
 
 
 
-[^1]: ... and also because time ago I decided not to use Twitter and the likes. 
-I'll keep to that, 
-despite the increasing evidence of the importance of having a good 
-[Kardashian index](https://en.wikipedia.org/wiki/Kardashian_Index) in research). 
+[^1]: ... and also because time ago I solemnly decided not to use Twitter and the likes. I'll keep to that, despite the increasing evidence of the importance of having a good [Kardashian index](https://en.wikipedia.org/wiki/Kardashian_Index) in research. 
